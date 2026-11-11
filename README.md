@@ -1,1 +1,37 @@
-IyBUYWxoYSBNdWphd2FyCgpGb3VuZGVyIG9mIE5leGFGb3JnZSDigJQgYW4gQUkgd2ViIGFnZW5jeS4gV2UgYnVpbGQgd2Vic2l0ZXMsIEFJIGFzc2lzdGFudHMgYW5kIGF1dG9tYXRpb24gZm9yIGxvY2FsIGJ1c2luZXNzZXMg4oCUIGV2ZXJ5dGhpbmcgeW91IG5lZWQgdG8gd2luIGNsaWVudHMgb25saW5lLCBkZWxpdmVyZWQgZmFzdCBhdCBhIGZpeGVkIHByaWNlLgoKIyMgV2hhdCBJIGJ1aWxkCgotICoqQnVzaW5lc3Mgd2Vic2l0ZXMqKiDigJQgZmFzdCwgQXBwbGUtbWluaW1hbCBzaXRlcyBkZXNpZ25lZCB0byB0dXJuIHZpc2l0b3JzIGludG8gZW5xdWlyaWVzLCB3aXRoIGEgYm9va2luZyBmbG93IGJ1aWx0IGluLgotICoqNzItSG91ciBGaXgqKiDigJQgYSBmb2N1c2VkIDcyLWhvdXIgd2Vic2l0ZSBmaXggZm9yIGJ1c2luZXNzZXMgd2hvc2Ugc2l0ZSBpcyBsb3NpbmcgdGhlbSBjdXN0b21lcnMuCi0gKipOZXhhRm9yZ2UgQ2FyZSoqIOKAlCBvbmdvaW5nIHdlYnNpdGUgY2FyZSBwbGFuczogdXBkYXRlcywgZml4ZXMsIGFuZCBtb25pdG9yaW5nLgotICoqTmV4eSoqIOKAlCBhbiBBSSBjaGF0Ym90IGZvciBidXNpbmVzcyB3ZWJzaXRlcy4gSXQgYW5zd2VycyBxdWVzdGlvbnMsIHNoYXJlcyBzZXJ2aWNlcyBhbmQgcHJpY2VzLCB0YWtlcyBib29raW5ncywgYW5kIGhhbmRzIG9mZiB0byBhIGh1bWFuLgotICoqTWFwUmFuayoqIOKAlCBHb29nbGUgQnVzaW5lc3MgUHJvZmlsZSBtYW5hZ2VtZW50LCBzbyBsb2NhbCBjdXN0b21lcnMgZmluZCB5b3UgZmlyc3QuCi0gKipGb3JtUmVhZHkqKiDigJQgMTkgZnJlZSB0b29scyBmb3IgSW5kaWFuIHN0dWRlbnRzIChwaG90byBhbmQgc2lnbmF0dXJlIHJlc2l6ZXJzLCBQREYgdG9vbHMsIGV4YW0gZ3VpZGVzKS4gMTAwJSBjbGllbnQtc2lkZTogbm8gdXBsb2Fkcywgbm8gYWNjb3VudHMsIGZpbGVzIG5ldmVyIGxlYXZlIHRoZSBkZXZpY2UuCi0gKipSZWhhbiBWaWxsYSoqIOKAlCBhIHJlYWwgcHJvamVjdDogYW4gaW50ZXJhY3RpdmUgM0Qgd2Vic2l0ZSBmb3IgYSB2aWxsYSBpbiBOYWdvdGhhbmUsIE1haGFyYXNodHJhLiBCdWlsdCB3aXRoIFRocmVlLmpzIOKAlCBob3Zlci1nbG93IHdpbmRvd3MsIGEgM0QgZmxvb3Igb3ZlcnZpZXcsIGFuZCB3YWxrYWJsZSByb29tcy4KCiMjIEhvdyBJIGJ1aWxkCgoxLiBEaXNjb3Zlcnkg4oCUIHRoZSBidXNpbmVzcywgaXRzIGN1c3RvbWVycywgYW5kIHdoYXQgdGhlIHNpdGUgbXVzdCBkby4KMi4gRGVzaWduIOKAlCBBcHBsZS1taW5pbWFsOiBjbGVhbiBsYXlvdXQsIG9uZSBkb21pbmFudCBpZGVhIHBlciBwYWdlLCBmYXN0IG9uIG1vYmlsZS4KMy4gQnVpbGQg4oCUIGhhbmQtYnVpbHQsIG5vIGJsb2F0ZWQgdGVtcGxhdGVzLiBQZXJmb3JtYW5jZSBhbmQgU0VPIGFyZSBiYWtlZCBpbiBmcm9tIHRoZSBzdGFydC4KNC4gTGF1bmNoIGFuZCBjYXJlIOKAlCBzdGFnaW5nLWZpcnN0IFFBLCB0aGVuIGxhdW5jaCwgdGhlbiBvbmdvaW5nIGNhcmUgYW5kIGltcHJvdmVtZW50LgoKIyMgSG93IHRoaW5ncyB3b3JrCgotIE5leHk6IGEgbGlnaHR3ZWlnaHQgY2hhdCB3aWRnZXQgb24gdGhlIGNsaWVudCdzIHNpdGUgdGFsa3MgdG8gYSBDbG91ZGZsYXJlIFdvcmtlciwgd2hpY2ggYW5zd2VycyBmcm9tIHRoZSBidXNpbmVzcydzIG93biBpbmZvcm1hdGlvbi4KLSBGb3JtUmVhZHk6IGV2ZXJ5IHRvb2wgcnVucyBlbnRpcmVseSBpbiB0aGUgdmlzaXRvcidzIGJyb3dzZXIg4oCUIHRoYXQncyB3aHkgbm8gc2VydmVyIG9yIHVwbG9hZCBpcyBldmVyIGludm9sdmVkLgotIEkgc2hpcCBldmVyeSBzaXRlIHdpdGggYW5hbHl0aWNzLCBhIHNpdGVtYXAsIGFuZCBTZWFyY2ggQ29uc29sZSBzZXR1cCwgc28gZ3Jvd3RoIGlzIG1lYXN1cmFibGUuCgojIyBUZWNoCgpIVE1MIMK3IENTUyDCtyBKYXZhU2NyaXB0IMK3IFRocmVlLmpzIMK3IE5ldGxpZnkgwrcgQ2xvdWRmbGFyZSBXb3JrZXJzIMK3IEFJIChHcm9xKSDCtyBHaXQgwrcgU0VPCgojIyBGaW5kIG1lCgpXZWJzaXRlOiBodHRwczovL25leGFmb3JnZS5jb21wYW55CkZvcm1SZWFkeTogaHR0cHM6Ly9mb3JtcmVhZHkubmV4YWZvcmdlLmNvbXBhbnkKQm9vayBhIGRpc2NvdmVyeSBjYWxsOiBodHRwczovL2NhbC5jb20vbmV4YWZvcmdlL2Rpc2NvdmVyeS1jYWxsCkVtYWlsOiBoZWxsb0BuZXhhZm9yZ2UuY29tcGFueQo=
+# Talha Mujawar
+
+Founder of NexaForge — an AI web agency. We build websites, AI assistants and automation for local businesses — everything you need to win clients online, delivered fast at a fixed price.
+
+## What I build
+
+- **Business websites** — fast, Apple-minimal sites designed to turn visitors into enquiries, with a booking flow built in.
+- **72-Hour Fix** — a focused 72-hour website fix for businesses whose site is losing them customers.
+- **NexaForge Care** — ongoing website care plans: updates, fixes, and monitoring.
+- **Nexy** — an AI chatbot for business websites. It answers questions, shares services and prices, takes bookings, and hands off to a human.
+- **MapRank** — Google Business Profile management, so local customers find you first.
+- **FormReady** — 19 free tools for Indian students (photo and signature resizers, PDF tools, exam guides). 100% client-side: no uploads, no accounts, files never leave the device.
+- **Rehan Villa** — a real project: an interactive 3D website for a villa in Nagothane, Maharashtra. Built with Three.js — hover-glow windows, a 3D floor overview, and walkable rooms.
+
+## How I build
+
+1. Discovery — the business, its customers, and what the site must do.
+2. Design — Apple-minimal: clean layout, one dominant idea per page, fast on mobile.
+3. Build — hand-built, no bloated templates. Performance and SEO are baked in from the start.
+4. Launch and care — staging-first QA, then launch, then ongoing care and improvement.
+
+## How things work
+
+- Nexy: a lightweight chat widget on the client's site talks to a Cloudflare Worker, which answers from the business's own information.
+- FormReady: every tool runs entirely in the visitor's browser — that's why no server or upload is ever involved.
+- I ship every site with analytics, a sitemap, and Search Console setup, so growth is measurable.
+
+## Tech
+
+HTML · CSS · JavaScript · Three.js · Netlify · Cloudflare Workers · AI (Groq) · Git · SEO
+
+## Find me
+
+Website: https://nexaforge.company
+FormReady: https://formready.nexaforge.company
+Book a discovery call: https://cal.com/nexaforge/discovery-call
+Email: hello@nexaforge.company
